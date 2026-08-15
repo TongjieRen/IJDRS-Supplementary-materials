@@ -27,14 +27,13 @@ Together, these materials document the parameterization and analytical procedure
 * **Article title:** A rapid hazard-to-network framework for assessing earthquake-induced transport disruption and road-network connectivity
 * **Journal:** *International Journal of Disaster Risk Science*
 * **Supplementary material:** External supplementary appendix
-* **Repository URL:** https://TongjieRen/IJDRS-Supplementary-materials
+* **Repository URL:**  https://github.com/TongjieRen/IJDRS-Supplementary-materials
 
 ## Citation
 
 When referring to these supplementary materials, please cite the published article together with this repository URL:
 
-> Ren et al. “A rapid hazard-to-network framework for assessing earthquake-induced transport disruption and road-network connectivity.” *International Journal of Disaster Risk Science*. Supplementary materials available at: https://github.com/TongjieRen/IJDRS-Supplementary-materials
-
+> Ren et al. “A rapid hazard-to-network framework for assessing earthquake-induced transport disruption and road-network connectivity.” *International Journal of Disaster Risk Science*. Supplementary materials available at:  https://github.com/TongjieRen/IJDRS-Supplementary-materials
 
 ## Contact
 
